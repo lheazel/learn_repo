@@ -1,3 +1,5 @@
 This is my first file, and this is the first line for the first commit.
 
+This is a line to be removed.
 
+This is a post commit line.
