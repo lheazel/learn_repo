@@ -1,5 +1,0 @@
-Writing some shit in here.
-This is stuff to be added in the next merge.
-This is some more stuff to test with merging.
-Additions in Master.
-Additions in testbranch.
